@@ -1,5 +1,5 @@
-## Hi there 👋
+## Welcome to Github Profile Achievements :wave:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+This community was created in order to tell Github users in a simple way how to get certain badges.
+
+Now instructions for earning badges are written in [English](https://github.com/github-profile-achievements/english) and [Russian](https://github.com/github-profile-achievements/russian). If you are ready to help with translation into other languages, just write about it in the [Discussions](https://github.com/orgs/github-profile-achievements/discussions).
